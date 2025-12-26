@@ -1,2 +1,2 @@
 # Control-systems
-Contains code related to different control systems in different programming languages
+In this repository i will be commiting various code related to different control systems principles in different programming languages
